@@ -1,0 +1,308 @@
+{
+  "userapi": [
+    {
+      "id": "be58",
+      "basic": {
+        "fullname": "Siyaram",
+        "dob": "2025-03-12",
+        "gender": "Male",
+        "married": "Yes",
+        "profilestatus": "Active",
+        "about": "i am in bangalore"
+      },
+      "edu": {
+        "highestEdu": "MCA",
+        "passingYear": "2007",
+        "grade": "",
+        "college": "vtu",
+        "city": "Bangalore"
+      },
+      "contact": {
+        "mobile": "8989898989898",
+        "mail": "test@gmail.com",
+        "localaddress": "marathahalli",
+        "permanentaddress": "marathahalli",
+        "reference": "8987898789"
+      },
+      "skill": {
+        "skill": "html, css, bootstrap, javascript"
+      },
+      "exp": {
+        "totalexp": "15",
+        "abtexp": "in web technologies"
+      },
+      "project": {
+        "projectname": "Medical Planet",
+        "projectdetails": "healthcase",
+        "technology": "healthcase",
+        "url": "medicalplanet.in"
+      }
+    },
+    {
+      "id": "25b1",
+      "basic": {
+        "fullname": "Siyaram Ray",
+        "dob": "2025-03-12",
+        "gender": "Male",
+        "married": "Yes",
+        "profilestatus": "Active",
+        "about": "i am in bangalore"
+      },
+      "edu": {
+        "highestEdu": "MCA",
+        "passingYear": "2007",
+        "grade": "B",
+        "college": "vtu",
+        "city": "Bangalore"
+      },
+      "contact": {
+        "mobile": "8989898989898",
+        "mail": "test@gmail.com",
+        "localaddress": "marathahalli",
+        "permanentaddress": "marathahalli",
+        "reference": "8987898789"
+      },
+      "skill": {
+        "skill": "html, css, bootstrap, javascript"
+      },
+      "exp": {
+        "totalexp": "15",
+        "abtexp": "in web technologies"
+      },
+      "project": {
+        "projectname": "Medical Planet",
+        "projectdetails": "healthcase",
+        "technology": "healthcase",
+        "url": "medicalplanet.in"
+      }
+    },
+    {
+      "id": "7210",
+      "basic": {
+        "fullname": "",
+        "dob": "",
+        "gender": "",
+        "married": "",
+        "profilestatus": "",
+        "about": ""
+      },
+      "edu": {
+        "highestEdu": "",
+        "passingYear": "",
+        "grade": "",
+        "college": "",
+        "city": ""
+      },
+      "contact": {
+        "mobile": "",
+        "mail": "",
+        "localaddress": "",
+        "permanentaddress": "",
+        "reference": ""
+      },
+      "skill": {
+        "skill": ""
+      },
+      "exp": {
+        "totalexp": "",
+        "abtexp": ""
+      },
+      "project": {
+        "projectname": "",
+        "projectdetails": "",
+        "technology": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "189f",
+      "basic": {
+        "fullname": "",
+        "dob": "",
+        "gender": "",
+        "married": "",
+        "profilestatus": "",
+        "about": ""
+      },
+      "edu": {
+        "highestEdu": "",
+        "passingYear": "",
+        "grade": "",
+        "college": "",
+        "city": ""
+      },
+      "contact": {
+        "mobile": "",
+        "mail": "",
+        "localaddress": "",
+        "permanentaddress": "",
+        "reference": ""
+      },
+      "skill": {
+        "skill": ""
+      },
+      "exp": {
+        "totalexp": "",
+        "abtexp": ""
+      },
+      "project": {
+        "projectname": "",
+        "projectdetails": "",
+        "technology": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "9453",
+      "basic": {
+        "fullname": "",
+        "dob": "",
+        "gender": "",
+        "married": "",
+        "profilestatus": "",
+        "about": ""
+      },
+      "edu": {
+        "highestEdu": "",
+        "passingYear": "",
+        "grade": "",
+        "college": "",
+        "city": ""
+      },
+      "contact": {
+        "mobile": "",
+        "mail": "",
+        "localaddress": "",
+        "permanentaddress": "",
+        "reference": ""
+      },
+      "skill": {
+        "skill": ""
+      },
+      "exp": {
+        "totalexp": "",
+        "abtexp": ""
+      },
+      "project": {
+        "projectname": "",
+        "projectdetails": "",
+        "technology": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "fbee",
+      "basic": {
+        "fullname": "",
+        "dob": "",
+        "gender": "",
+        "married": "",
+        "profilestatus": "",
+        "about": ""
+      },
+      "edu": {
+        "highestEdu": "",
+        "passingYear": "",
+        "grade": "",
+        "college": "",
+        "city": ""
+      },
+      "contact": {
+        "mobile": "",
+        "mail": "",
+        "localaddress": "",
+        "permanentaddress": "",
+        "reference": ""
+      },
+      "skill": {
+        "skill": ""
+      },
+      "exp": {
+        "totalexp": "",
+        "abtexp": ""
+      },
+      "project": {
+        "projectname": "",
+        "projectdetails": "",
+        "technology": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "9aca",
+      "basic": {
+        "fullname": "",
+        "dob": "",
+        "gender": "",
+        "married": "",
+        "profilestatus": "",
+        "about": ""
+      },
+      "edu": {
+        "highestEdu": "",
+        "passingYear": "",
+        "grade": "",
+        "college": "",
+        "city": ""
+      },
+      "contact": {
+        "mobile": "",
+        "mail": "",
+        "localaddress": "",
+        "permanentaddress": "",
+        "reference": ""
+      },
+      "skill": {
+        "skill": ""
+      },
+      "exp": {
+        "totalexp": "",
+        "abtexp": ""
+      },
+      "project": {
+        "projectname": "",
+        "projectdetails": "",
+        "technology": "",
+        "url": ""
+      }
+    },
+    {
+      "id": "f1fa",
+      "basic": {
+        "fullname": "",
+        "dob": "",
+        "gender": "",
+        "married": "",
+        "profilestatus": "",
+        "about": ""
+      },
+      "edu": {
+        "highestEdu": "",
+        "passingYear": "",
+        "grade": "",
+        "college": "",
+        "city": ""
+      },
+      "contact": {
+        "mobile": "",
+        "mail": "",
+        "localaddress": "",
+        "permanentaddress": "",
+        "reference": ""
+      },
+      "skill": {
+        "skill": ""
+      },
+      "exp": {
+        "totalexp": "",
+        "abtexp": ""
+      },
+      "project": {
+        "projectname": "",
+        "projectdetails": "",
+        "technology": "",
+        "url": ""
+      }
+    }
+  ]
+}
